@@ -1,2 +1,2 @@
-# Garage_128x64
+# L1_Garage_128x64
 Garage animation for Flipper Zero
